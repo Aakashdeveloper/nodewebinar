@@ -1,0 +1,21 @@
+for package.json
+
+//
+> navigate to the folder using cmd
+> npm init
+> answer all question
+> type 'yes'
+
+
+To Install any package
+> navigate to the folder using cmd
+> npm i axios
+
+
+> Creat new Node appliction
+
+> Run cmd as adminstritor
+> npm i -g @aakashdeveloper/create-node-app
+> type 'generate'
+> select node-app
+> application name 
